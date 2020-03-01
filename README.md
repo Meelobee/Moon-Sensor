@@ -1,4 +1,5 @@
 Moon-Sensor for Home-Assistant, shows 8 different moon phases
+
 Uses the Home Assistant Moon integration - https://www.home-assistant.io/integrations/moon/
 
 Install:
