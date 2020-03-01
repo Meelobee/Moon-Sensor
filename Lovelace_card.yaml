@@ -1,15 +1,15 @@
-# Copy/Paste code to 'Manual Card' in 'Configure UI'.
+# Copy/Paste code to a 'Manual Card' in 'Configure UI'.
 
-  - entity: sensor.moon
-    show_name: false
-    show_state: false
-    state_image:
-      first_quarter: /local/images/moon_phase/first_quarter.png
-      full_moon: /local/images/moon_phase/full_moon.png
-      last_quarter: /local/images/moon_phase/last_quarter.png
-      new_moon: /local/images/moon_phase/new_moon.png
-      waning_crescent: /local/images/moon_phase/waning_crescent.png
-      waning_gibbous: /local/images/moon_phase/waning_gibbous.png
-      waxing_crescent: /local/images/moon_phase/waxing_crescent.png
-      waxing_gibbous: /local/images/moon_phase/waxing_gibbous.png
-    type: picture-entity
+entity: sensor.moon
+show_name: false
+show_state: false
+state_image:
+  first_quarter: /local/images/moon_phase/first_quarter.png
+  full_moon: /local/images/moon_phase/full_moon.png
+  last_quarter: /local/images/moon_phase/last_quarter.png
+  new_moon: /local/images/moon_phase/new_moon.png
+  waning_crescent: /local/images/moon_phase/waning_crescent.png
+  waning_gibbous: /local/images/moon_phase/waning_gibbous.png
+  waxing_crescent: /local/images/moon_phase/waxing_crescent.png
+  waxing_gibbous: /local/images/moon_phase/waxing_gibbous.png
+type: picture-entity
